@@ -1,0 +1,23 @@
+{
+  "name": "dh-modulo03",
+  "version": "1.0.0",
+  "description": "Introdução ao **GIT**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglascpsouza/dh-modulo03.git"
+  },
+  "keywords": [],
+  "author": "Douglas Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douglascpsouza/dh-modulo03/issues"
+  },
+  "homepage": "https://github.com/douglascpsouza/dh-modulo03#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
